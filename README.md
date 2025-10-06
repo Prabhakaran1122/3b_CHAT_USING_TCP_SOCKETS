@@ -38,7 +38,7 @@ while True:
     c.send(msg.encode())
 ```
 ## OUPUT
-<img width="1541" height="348" alt="image" src="https://github.com/user-attachments/assets/d4fd9475-8111-4a16-a00c-9e672b88e8b6" />
+<img width="1464" height="292" alt="image" src="https://github.com/user-attachments/assets/2946cfee-3862-4510-a4ce-87d2963de243" />
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
